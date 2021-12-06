@@ -1,0 +1,23 @@
+.loginForm {
+    text-align: center;
+}
+
+button, #nextPageBtn {
+    background-color: #f3d5f2;
+    color: black;
+    padding: 5px 10px;
+    text-decoration: none;
+    border: 1px solid black;
+}
+
+#nextPageBtn {
+    display: none;
+}
+
+.addTask, .deleteTask {
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 5px;
+}
